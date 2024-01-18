@@ -1,1 +1,3 @@
 # Cryptojacking-Detection-System
+Cryptojacking is a cyber-attack utilizing malicious scripts similar to those from large cryptocurrency houses to illegally mine data without users being aware. These attacks are stealthy and difficult to detect or analyze, often leading to decreased computing speeds for users as well as crashes due to straining of computational resources.
+The objective of this project is to classify network activity from various websites as either cryptojacking or not based on features related to both network-based and host-based data. Libraries such as pandas, numpy ,matplotlib, seaborn were used for data analysis and visualization. The algorithm employed for modelling was the random  forest which gave an accuracy of 95%.
